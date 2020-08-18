@@ -21,7 +21,7 @@ from notebooks import video_3, visualization_camera_on
 app_off.py
 from notebooks import video_3, visualization_camera_off
 
-
+下载权重ssd_300_vgg.ckpt.zip    解压到checkpoints下
 注意路径问题！！！
 © 2020 GitHub, Inc.
 
